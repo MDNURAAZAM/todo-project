@@ -22,7 +22,7 @@ function App() {
                 <hr class="mt-4" />
 
               
-               <TodoList/>
+               <TodoList></TodoList>
 
                 <hr class="mt-4" />
 
