@@ -20,7 +20,7 @@ const todoReducer = (state = initialState, action) => {
         ...state,
         {
           id: nextTodoId(state),
-          text: action.payload.text,
+          text: action.payload,
           completed: false,
         },
       ];
