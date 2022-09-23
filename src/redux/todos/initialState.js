@@ -10,4 +10,10 @@ export const initialState = [
     completed: false,
     color: "red",
   },
+  {
+    id: 3,
+    text: "Learn Next JS",
+    completed: false,
+    color: "yellow",
+  },
 ];
